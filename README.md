@@ -51,7 +51,20 @@
 <!-- ABOUT THE CLASS -->
 ## About The Class
 
-xxx
+Link to the data: [here](https://drive.google.com/drive/u/1/folders/11oRUImHwIARaYskhDaW_blpYgrOc9Tv9)
+
+Links to the Readings: 
+  - [Harald Scheidl](https://towardsdatascience.com/build-a-handwritten-text-recognition-system-using-tensorflow-2326a3487cd5)
+
+  - [MNIST ViT](https://towardsdatascience.com/a-demonstration-of-using-vision-transformers-in-pytorch-mnist-handwritten-digit-recognition-407eafbc15b0)
+
+  - [HUGGINGFACE](https://huggingface.co/docs/transformers/model_doc/trocr)
+
+  - [HUGGINGFACE - ViT OCR](https://huggingface.co/docs/transformers/model_doc/trocr)
+
+  - [HUGGINGFACE - Fine Tuning](https://huggingface.co/docs/transformers/model_doc/trocr)
+
+  - [Handwriting Recognition Introduction](https://nanonets.com/blog/handwritten-character-recognition/#train-your-own-handwriting-recognition-model)
 
 
 
