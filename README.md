@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/thehitchhikersguideto/handwu">
-    <img src="https://img.freepik.com/free-vector/fitness-gym-interior-background-room-with-sport-equipment-workouts-treadmill-bike-dumbbells-barbell-water-cooler-mat-floor_575670-1344.jpg?w=1800&t=st=1676630912~exp=1676631512~hmac=0e1f6e47d318b8bf6637d54b783c258b848d42c941546610bea1e40cbae34949" style="border-radius: 30px" >
+    <img src="https://img.freepik.com/free-vector/full-color-handwriting-paint-brush-lettering-latin-alphabet-letters_87521-2748.jpg?w=2000&t=st=1676631511~exp=1676632111~hmac=c613d3137bff8dc133cd6e293dfc29ca6ef59bc7afe3acd856b2d0a31532d497" style="border-radius: 30px" >
   </a>
 
 <h3 align="center">Handwriting Understanding System</h3>
