@@ -1,0 +1,8 @@
+session_12_Group_Work/
+nu/
+cleaned_data/
+cleaned_csv/
+data/df.csv
+unfinished_models/trocr-base-handwritten/
+unfinished_models/trocr-base-stage1/
+unfinished_models/runs/
